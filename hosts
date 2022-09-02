@@ -1,0 +1,2 @@
+astra ansible_host=192.168.204.144 ansible_user=hsm ansible_ssh_private_key_file=/root/.ssh/id_rsa
+
